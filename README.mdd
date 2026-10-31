@@ -1,0 +1,14 @@
+# Paradise Nursery Shopping Application
+
+Paradise Nursery is an online plant store where users can browse, explore, and purchase a wide variety of houseplants categorized by their unique qualities (Air Purifying, Aromatic, Low Maintenance).
+
+## Features
+- **Landing Page**: Overview of the nursery with company background and quick entry button.
+- **Product Listing Page**: Houseplants organized across multiple categories with details, pricing, and dynamic Add to Cart functionality.
+- **Dynamic Cart Management**: Powered by Redux Toolkit for real-time quantity adjustments, price calculations, and item removals.
+- **Responsive Navigation**: Header with real-time cart item counter and navigation links.
+
+## Tech Stack
+- React
+- Redux Toolkit
+- Vite / CSS3
